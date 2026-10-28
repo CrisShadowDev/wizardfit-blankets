@@ -1,0 +1,36 @@
+{
+  "store": "WizardFit Blankets & Snuggies",
+  "tier": "Fast: $20-40 profit tier planning",
+  "products": [
+    {
+      "name": "Neon Chrome Throw",
+      "desc": "Soft throw, holographic trim.",
+      "price_planning": "$59"
+    },
+    {
+      "name": "Snuggie Style Wearable Blanket",
+      "desc": "Wearable, cozy, one size.",
+      "price_planning": "$65"
+    },
+    {
+      "name": "Weighted Cozy Blanket",
+      "desc": "Weighted, calm sleep support.",
+      "price_planning": "$89"
+    },
+    {
+      "name": "Dragon Scale Fleece",
+      "desc": "Printed fleece, trippy pattern.",
+      "price_planning": "$55"
+    },
+    {
+      "name": "Couple's Giant Blanket",
+      "desc": "Oversized, shared.",
+      "price_planning": "$79"
+    },
+    {
+      "name": "Travel Cozy Set",
+      "desc": "Blanket + pouch.",
+      "price_planning": "$49"
+    }
+  ]
+}
